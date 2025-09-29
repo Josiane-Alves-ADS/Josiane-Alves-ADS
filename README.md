@@ -36,6 +36,18 @@ Aqui você vai encontrar projetos relacionados às minhas áreas de interesse:
 
 ---
 
+## 📊 GitHub Stats
+
+![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?Josiane-Alves-ADS=falvojr&show_icons=true&theme=dark)
+
+---
+
+## 🧠 Linguagens Mais Usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Josiane-Alves-ADS=falvojr&layout=compact&theme=dark)
+
+---
+
 ### Vamos nos Conectar?
 
 Sinta-se à vontade para me seguir aqui no GitHub e se conectar comigo no LinkedIn. Vamos juntos aprender e construir o futuro! ✨
