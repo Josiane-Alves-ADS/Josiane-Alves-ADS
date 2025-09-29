@@ -38,13 +38,13 @@ Aqui você vai encontrar projetos relacionados às minhas áreas de interesse:
 
 ## 📊 GitHub Stats
 
-![falvojr's GitHub stats](https://github-readme-stats.vercel.app/api?username=falvojr&show_icons=true&theme=dark)
+![Josiane-Alves-ADS's GitHub stats](https://github-readme-stats.vercel.app/api?username=Josiane-Alves-ADS&show_icons=true&theme=dark)
 
 ---
 
 ## 🧠 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falvojr&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Josiane-Alves-ADS&layout=compact&theme=dark)
 
 ---
 
