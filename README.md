@@ -2,7 +2,7 @@
 
 Sou **Analista e Desenvolvedora de Sistemas em Formação**, em uma jornada de transição da área de Comunicação para o mundo da tecnologia 🌉. Sou movida pela paixão em criar soluções eficientes e resolver problemas, e acredito que a minha formação em Comunicação me dá uma perspectiva única. Afinal, por trás de todo código, há uma história a ser contada e um usuário a ser compreendido.
 
-Estou aprofundando meus conhecimentos por meio de bootcamps e imersões. Atualmente, estou no **DIO Campus Expert**, um projeto focado no desenvolvimento de **liderança e soft skills** 🎓, e atuo com muito orgulho como **Embaixadora da DIO**.
+Estou aprofundando meus conhecimentos por meio de bootcamps e imersões. Atualmente, faço parte do **DIO Campus Expert**, um projeto focado no desenvolvimento de **liderança e soft skills** 🎓, e atuo com muito orgulho como **Embaixadora da DIO**.
 
 ---
 
