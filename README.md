@@ -6,7 +6,7 @@ Estou aprofundando meus conhecimentos por meio de bootcamps e imersões. Atualme
 
 ---
 
-*## 🤝 Apoie a Comunidade Tech
+## 🤝 **Apoie a Comunidade Tech:**
 Como Embaixadora da DIO, convido você a se juntar à maior comunidade de inovação e aprendizado do Brasil!
 
 🔗 **[Comece sua jornada gratuita na DIO pelo meu link de Embaixadora!](https://www.dio.me/sign-up?ref=H7FBXZGBK1)**
