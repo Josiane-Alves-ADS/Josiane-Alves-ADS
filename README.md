@@ -6,6 +6,13 @@ Estou aprofundando meus conhecimentos por meio de bootcamps e imersões. Atualme
 
 ---
 
+*## 🤝 Apoie a Comunidade Tech
+Como Embaixadora da DIO, convido você a se juntar à maior comunidade de inovação e aprendizado do Brasil!
+
+🔗 **[Comece sua jornada gratuita na DIO pelo meu link de Embaixadora!](https://www.dio.me/sign-up?ref=H7FBXZGBK1)**
+
+---
+
 ### Minhas Habilidades (Soft Skills)
 
 Minhas soft skills são o meu diferencial. Com a experiência em Comunicação, aprendi a valorizar:
@@ -34,6 +41,18 @@ Aqui você vai encontrar projetos relacionados às minhas áreas de interesse:
 * Inteligência Artificial 🤖
 * Lógica de Programação 🧠
 
+
+---
+
+## 🚀 Destaques do Meu Portfólio
+
+Aqui estão alguns dos meus projetos e contribuições mais relevantes:
+
+### 📝 Artigos e Escritos Técnicos na DIO
+Este é o meu repositório centralizado onde organizo e listo todos os artigos que escrevi, cobrindo tópicos como Python, Soft Skills e Estratégias de Carreira.
+
+**🔗 [Acesse o Repositório de Artigos Completo AQUI](https://github.com/Josiane-Alves-ADS/artigos-dio)** 
+
 ---
 
 ## 📊 GitHub Stats
@@ -50,6 +69,8 @@ Aqui você vai encontrar projetos relacionados às minhas áreas de interesse:
 
 ### Vamos nos Conectar?
 
-Sinta-se à vontade para me seguir aqui no GitHub e se conectar comigo no LinkedIn. Vamos juntos aprender e construir o futuro! ✨
+Sinta-se à vontade para me seguir aqui no GitHub e se conectar comigo no LinkedIn e na DIO. Vamos juntos aprender e construir o futuro! ✨
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josiane-alves-565017367)
+[![DIO Profile](https://img.shields.io/badge/DIO-Profile-green?style=flat&logo=link&logoColor=white)](https://web.dio.me/users/josianealves_ads?tab=skills&page=1)
+
