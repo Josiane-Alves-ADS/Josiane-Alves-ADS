@@ -13,7 +13,7 @@ Como Embaixadora da DIO, convido você a se juntar à maior comunidade de inova�
 
 ---
 
-### Minhas Habilidades (Soft Skills)
+### 💡 Minhas Habilidades (Soft Skills)
 
 Minhas soft skills são o meu diferencial. Com a experiência em Comunicação, aprendi a valorizar:
 
@@ -24,14 +24,16 @@ Minhas soft skills são o meu diferencial. Com a experiência em Comunicação, 
 
 ---
 
-### Minha Formação
+### 🎓 Minha Formação
 
-* **Tecnólogo em Análise e Desenvolvimento de Sistemas** (Cursando)
-* **Graduação em Comunicação Social**
+* **Tecnólogo:** Análise e Desenvolvimento de Sistemas** (Cursando)
+* **Pós-Graduação:** Cinema
+* **Graduação:** Comunicação Social: Rádio, TV e Internet
+
 
 ---
 
-### Meus Interesses e Projetos
+### 🗺️ Meus Interesses e Projetos
 
 Aqui você vai encontrar projetos relacionados às minhas áreas de interesse:
 
@@ -48,10 +50,17 @@ Aqui você vai encontrar projetos relacionados às minhas áreas de interesse:
 
 Aqui estão alguns dos meus projetos e contribuições mais relevantes:
 
+### 📚 Trabalhos e Projetos da Faculdade
+Este repositório é um **índice centralizado** que contém todos os projetos, códigos e trabalhos desenvolvidos durante minha jornada acadêmica no curso de **Análise e Desenvolvimento de Sistemas**. É uma demonstração das minhas habilidades técnicas e aprendizado na área.
+
+**🔗 [Acesse o Repositório Acadêmico Completo AQUI](https://github.com/Josiane-Alves-ADS/indice-projetos-faculdade)**
+
+---
+
 ### 📝 Artigos e Escritos Técnicos na DIO
 Este é o meu repositório centralizado onde organizo e listo todos os artigos que escrevi, cobrindo tópicos como Python, Soft Skills e Estratégias de Carreira.
 
-**🔗 [Acesse o Repositório de Artigos Completo AQUI](https://github.com/Josiane-Alves-ADS/artigos-dio)** 
+**🔗 [Acesse o Repositório de Artigos Completo AQUI](https://github.com/Josiane-Alves-ADS/artigos-dio)**
 
 ---
 
@@ -67,10 +76,8 @@ Este é o meu repositório centralizado onde organizo e listo todos os artigos q
 
 ---
 
-### Vamos nos Conectar?
+## 🤝 Vamos nos Conectar?
 
-Sinta-se à vontade para me seguir aqui no GitHub e se conectar comigo no LinkedIn e na DIO. Vamos juntos aprender e construir o futuro! ✨
+Sinta-se à vontade para me seguir aqui no GitHub e se conectar comigo no LinkedIn. Vamos juntos aprender e construir o futuro! ✨
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josiane-alves-565017367)
-[![DIO Profile](https://img.shields.io/badge/DIO-Profile-green?style=flat&logo=link&logoColor=white)](https://web.dio.me/users/josianealves_ads?tab=skills&page=1)
-
