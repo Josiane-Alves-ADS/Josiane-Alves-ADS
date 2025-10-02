@@ -51,9 +51,24 @@ Aqui você vai encontrar projetos relacionados às minhas áreas de interesse:
 Aqui estão alguns dos meus projetos e contribuições mais relevantes:
 
 ### 📚 Trabalhos e Projetos da Faculdade
-Este repositório é um **índice centralizado** que contém todos os projetos, códigos e trabalhos desenvolvidos durante minha jornada acadêmica no curso de **Análise e Desenvolvimento de Sistemas**. É uma demonstração das minhas habilidades técnicas e aprendizado na área.
+Este repositório contém todos os projetos, códigos e trabalhos desenvolvidos durante minha jornada acadêmica no curso de Análise e Desenvolvimento de Sistemas. É uma demonstração das minhas habilidades técnicas e aprendizado na área.
 
-**🔗 [Acesse o Repositório Acadêmico Completo AQUI](https://github.com/Josiane-Alves-ADS/indice-projetos-faculdade)**
+**🔗 [Acesse o Repositório Acadêmico Completo AQUI](https://github.com/Josiane-Alves-ADS/indice-projetos-faculdade)** ---
+
+### 💻 Índice de Projetos Práticos (Bootcamps e Imersões)
+Este índice centraliza o código-fonte e as demonstrações dos projetos desenvolvidos em minhas formações. É a prova prática das minhas habilidades em **IA, Front-end e Python**.
+
+**🔗 [Acesse o Índice de Projetos Completo AQUI](https://github.com/Josiane-Alves-ADS/indice-de-projetos-cursos)** ---
+
+### 🎓 Índice de Certificações e Conquistas
+Este repositório organiza e comprova todas as minhas certificações, imersões e bootcamps. Demonstra o volume do meu conhecimento em **Inteligência Artificial, Gestão e Habilidades Técnicas**.
+
+**🔗 [Acesse o Índice de Certificados Completo AQUI](https://github.com/Josiane-Alves-ADS/indice-de-certificacoes)** ---
+
+### 📝 Artigos e Escritos Técnicos na DIO
+Este é o meu repositório centralizado onde organizo e listo todos os artigos que escrevi, cobrindo tópicos como Python, Soft Skills e Estratégias de Carreira.
+
+**🔗 [Acesse o Repositório de Artigos Completo AQUI](https://github.com/Josiane-Alves-ADS/artigos-dio)** ---
 
 ---
 
